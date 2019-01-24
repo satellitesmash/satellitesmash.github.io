@@ -32,7 +32,23 @@ export default class Events extends Component {
                     </Media>
                     <Media>
                         <Media body>
-                            <Media heading>WGA Weeklies</Media>
+                            <Media heading>WGA Colosseum</Media>
+                            <Media>WGA Colosseum turns the University of Washington into a battle arena every Wednesday, making it a prime practice location for anyone around Seattle. </Media>
+                            <ul>
+                                <li>TO(s): <a href="https://twitter.com/BlueMikazuchi" target="_blank" rel="noopener noreferrer">Mika</a>, <a href="https://twitter.com/WeSSlowDancer" target="_blank" rel="noopener noreferrer">Slow Dancer</a></li>
+                                <li>Location: Maple Hall 216/217 at UW, Seattle, WA 98195</li>
+                                <li>Brackets: Singles</li>
+                                <li>Entry: $3 venue, $3 bracket</li>
+                                <li>Schedule: Every Wednesday (while school is in session) at 6:30 PM</li>
+                            </ul>
+                        </Media>
+                        <Media right top >
+                            <img className="rounded" src={require('../assets/wga.png')} alt="Orbitar"></img>
+                        </Media>
+                    </Media>
+                    <Media>
+                        <Media body>
+                            <Media heading>UW Smash Weeklies</Media>
                             <p>Smash Club at the University of Washington cycles through a variety of different events and often charges no entry, giving players of all skill levels an easy entry point into the tournament scene. Occasional Singles brackets give UW students a shot at Smash Club’s quarterly PR, but meetings are open to everyone--student or not!</p>
                             <ul>
                                 <li>TO(s): <a href="https://twitter.com/ssbgyromight" target="_blank" rel="noopener noreferrer">Gyromight</a>, WGA Smash Club officers</li>

@@ -126,6 +126,11 @@ ol a {
 	width: 100px;
 }
 
+.rankings-image {
+	width: 90%;
+	margin: 1rem auto;
+}
+
 .centered {
 	color: white;
 	text-align: center;
@@ -139,6 +144,10 @@ ol a {
 }
 
 @media (min-width: 575px) {
+
+	.rankings-image {
+		width: 70%;
+	}
 
 	#brand-title {
 		font-size: 13px;

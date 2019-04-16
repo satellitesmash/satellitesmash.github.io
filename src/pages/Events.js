@@ -198,7 +198,7 @@ export default class Events extends Component {
                             <Media heading>Port Priority</Media>
                             <Media>Stationed in the University of Washington’s Maple Hall, this bi-annual tournament draws PGR talent, national attention, and plenty of hype. While all installments feature Singles and Doubles, each one also focuses on a specific theme or region, giving every edition a distinct flavor.</Media>
                             <ul>
-                                <li>TO(s): <a href="https://twitter.com/cyrrona" target="_blank" rel="noopener noreferrer">Cyrrona</a>, <a href="https://twitter.com/ssbgyromight" target="_blank" rel="noopener noreferrer">Gyromight</a></li>
+                                <li>TO(s): <a href="https://twitter.com/ssbgyromight" target="_blank" rel="noopener noreferrer">Gyromight</a>, <a href="https://twitter.com/cyrrona" target="_blank" rel="noopener noreferrer">Cyrrona</a></li>
                             </ul>
                         </Media>
                         <Media right top>
@@ -222,7 +222,7 @@ export default class Events extends Component {
                             <Media heading>Evergreen Rising</Media>
                             <Media>Happening around once per month, Evergreen Rising brings a variety of Smash titles to Highline College. You can explore the many forms of Smash and cap it all off with a stacked Ultimate bracket.</Media>
                             <ul>
-                                <li>TO: <a href="https://twitter.com/TizyeTV" target="_blank" rel="noopener noreferrer">Tizye</a></li>
+                                <li>TO(s): <a href="https://twitter.com/TizyeTV" target="_blank" rel="noopener noreferrer">Tizye</a></li>
                             </ul>
                         </Media>
                         <Media right>
@@ -266,7 +266,7 @@ export default class Events extends Component {
                         </Media>
                     </Media>
                 </Media>
-            </section >
+            </section>
         );
     }
 

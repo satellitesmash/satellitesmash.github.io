@@ -27,7 +27,7 @@ export default class Events extends Component {
                             </ul>
                         </Media>
                         <Media right top >
-                            <img className="rounded" src={require('../assets/orbitar.jpg')} alt="Orbitar"></img>
+                            <img className="rounded" src={require('../assets/orbitar.png')} alt="Orbitar"></img>
                         </Media>
                     </Media>
                     <Media>
@@ -116,14 +116,14 @@ export default class Events extends Component {
                             <Media>Tucked away in a gaming shop north of Seattle, TNS runs Ultimate every other Monday. You can expect a standard Singles bracket, a side bracket, and Melee as well.</Media>
                             <ul>
                                 <li>TO(s): <a href="https://twitter.com/harmdissonance" target="_blank" rel="noopener noreferrer">Scruffymagic</a></li>
-                                <li>Location: 17928 Bothell Everett Hwy, Ste C, Bothell, Washington 98012</li>
+                                <li>Location: 17624 15th Ave SE, Bothell, Washington 98012</li>
                                 <li>Brackets: Singles, varies</li>
                                 <li>Entry: $5  venue, $5 bracket</li>
                                 <li>Schedule: Every other Monday at 7:00 PM</li>
                             </ul>
                         </Media>
                         <Media right top>
-                            <img className="rounded" src={require('../assets/tns.jpg')} alt="orbitar"></img>
+                            <img className="rounded" src={require('../assets/tns.png')} alt="orbitar"></img>
                         </Media>
                     </Media>
                     <Media>
@@ -158,6 +158,38 @@ export default class Events extends Component {
                             <img className="rounded" src={require('../assets/monthly.jpg')} alt="Monthly Mashers"></img>
                         </Media>
                     </Media>
+                    <Media>
+                        <Media body>
+                            <Media heading>ROC Smash</Media>
+                            <Media>Led by a scene veteran, ROC Smash brings streams, setups, and spirit to northern Washington every other week.</Media>
+                            <ul>
+                                <li>TO(s): <a href="https://twitter.com/TO_Aveean" target="_blank" rel="noopener noreferrer">Aveean</a></li>
+                                <li>Location: Geek Fortress, 1207 13th St Suite K, Snohomish, Washington 98290</li>
+                                <li>Brackets: Singles</li>
+                                <li>Entry: $3 venue, $5 bracket</li>
+                                <li>Schedule: Every other Tuesday at 6:00 PM</li>
+                            </ul>
+                        </Media>
+                        <Media right top>
+                            <img className="rounded" src={require('../assets/roc.png')} alt="ROC Smash"></img>
+                        </Media>
+                    </Media>
+                    <Media>
+                        <Media body>
+                            <Media heading>Jokes on You: Randall’s Paradise</Media>
+                            <Media>Randall’s is a Melee institution that’s opened its doors to Ultimate. Enjoy a multitude of Smash titles across the water! NOTE: 18+ VENUE.</Media>
+                            <ul>
+                                <li>TO(s): <a href="https://www.facebook.com/blueado13?fref=gs&__tn__=%2CdlC-R-R&eid=ARCmV0YziBoKy5xqUeeJtZhjwtijCmlE8CE_YxELYfehuEBZ2QkB8AeKOpby9IZrynr9OKQep8q1l3lC&hc_ref=ARTPtiQ-AEmFWnX--_1RsPfFlVXJhPLKGr_2stxp25oMi1VtMy-w88ijYZyXxlv-FXE&dti=824606527611160&hc_location=group" target="_blank" rel="noopener noreferrer">Andrew Olsen</a></li>
+                                <li>Location: Olympus Vapor, 15131 NE 24th St, Redmond, WA 98052</li>
+                                <li>Brackets: Singles</li>
+                                <li>Entry: $5 venue, $3 bracket</li>
+                                <li>Schedule: Wednesdays at 5:45 PM</li>
+                            </ul>
+                        </Media>
+                        <Media right top>
+                            <img className="rounded" src={require('../assets/randall.jpg')} alt="Randall's Paradise"></img>
+                        </Media>
+                    </Media>
                 </Media>
                 <h3>Regionals</h3>
                 <Media list>
@@ -183,6 +215,18 @@ export default class Events extends Component {
                         </Media>
                         <Media right>
                             <img className="rounded" src={require('../assets/dp.jpeg')} alt="Don't Park on the Grass"></img>
+                        </Media>
+                    </Media>
+                    <Media>
+                        <Media body>
+                            <Media heading>Evergreen Rising</Media>
+                            <Media>Happening around once per month, Evergreen Rising brings a variety of Smash titles to Highline College. You can explore the many forms of Smash and cap it all off with a stacked Ultimate bracket.</Media>
+                            <ul>
+                                <li>TO: <a href="https://twitter.com/TizyeTV" target="_blank" rel="noopener noreferrer">Tizye</a></li>
+                            </ul>
+                        </Media>
+                        <Media right>
+                            <img className="rounded" src={require('../assets/egr.png')} alt="Evergreen Rising"></img>
                         </Media>
                     </Media>
                     <Media>

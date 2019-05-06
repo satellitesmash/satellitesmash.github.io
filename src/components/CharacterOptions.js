@@ -9,6 +9,7 @@ let characterOptions = ['None', 'Bayonetta', 'Bowser', 'Bowser Jr.', 'Captain Fa
     'Incineroar',
     'Isabelle',
     'Jigglypuff',
+    'Joker',
     'Ken',
     'King Dedede',
     'King K.Rool',

@@ -111,13 +111,13 @@ const events = () => {
                 <Media>
                     <Media body>
                         <Media heading>That's Not Safe</Media>
-                        <Media>Tucked away in a gaming shop north of Seattle, TNS runs Ultimate every other Monday. You can expect a standard Singles bracket, a side bracket, and Melee as well.</Media>
+                        <Media>Now at a brand-new location, TNS offers spirited Ultimate brackets every other Monday. You can expect brackets for other Smash titles as well.</Media>
                         <ul>
                             <li>TO(s): <a href="https://twitter.com/harmdissonance" target="_blank" rel="noopener noreferrer">Scruffymagic</a></li>
-                            <li>Location: 17624 15th Ave SE, Bothell, Washington 98012</li>
+                            <li>Location: 7324 NE 175th St, Ste A, Kenmore, Washington 98028</li>
                             <li>Brackets: Singles, varies</li>
-                            <li>Entry: $5  venue, $5 bracket</li>
-                            <li>Schedule: Every other Monday at 7:00 PM</li>
+                            <li>Entry: $5 venue, $5 bracket</li>
+                            <li>Schedule: Every other Monday at 6:30 PM</li>
                         </ul>
                     </Media>
                     <Media right top>
@@ -242,7 +242,7 @@ const events = () => {
                 <Media>
                     <Media body>
                         <Media heading>Orbitar Stars</Media>
-                        <Media>This bi-annual event features an invitational bracket with some of Orbitar’s top performers as well as an Arcadian bracket designed to highlight the scene’s rising stars. It’s part prestige, part celebration!</Media>
+                        <Media>This special event features an invitational bracket with some of Orbitar’s top performers as well as an Arcadian bracket designed to highlight the scene’s rising stars. It’s part prestige, part celebration!</Media>
                         <ul>
                             <li>TO(s): <a href="https://twitter.com/cyrrona" target="_blank" rel="noopener noreferrer">Cyrrona</a>, <a href="https://twitter.com/ssbgyromight" target="_blank" rel="noopener noreferrer">Gyromight</a></li>
                         </ul>

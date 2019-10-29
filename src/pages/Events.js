@@ -62,6 +62,22 @@ const events = () => {
                 </Media>
                 <Media>
                     <Media body>
+                        <Media heading>That's Not Safe</Media>
+                        <Media>Now at a brand-new location, TNS offers spirited Ultimate brackets every other Monday. You can expect brackets for other Smash titles as well.</Media>
+                        <ul>
+                            <li>TO(s): <a href="https://twitter.com/harmdissonance" target="_blank" rel="noopener noreferrer">Scruffymagic</a></li>
+                            <li>Location: 7324 NE 175th St, Ste A, Kenmore, Washington 98028</li>
+                            <li>Brackets: Singles, varies</li>
+                            <li>Entry: $5 venue, $5 bracket</li>
+                            <li>Schedule: Every Monday at 6:30 PM</li>
+                        </ul>
+                    </Media>
+                    <Media right top>
+                        <img className="rounded" src={require('../assets/tns.png')} alt="orbitar"></img>
+                    </Media>
+                </Media>
+                <Media>
+                    <Media body>
                         <Media heading>Roadside Hobbies</Media>
                         <Media>For anyone south of Seattle, RSH is the prime weekly around. Run in a family-owned card shop, this intimate event features two brackets, a casual atmosphere, and plenty of good Smash.</Media>
                         <ul>
@@ -110,18 +126,18 @@ const events = () => {
                 </Media>
                 <Media>
                     <Media body>
-                        <Media heading>That's Not Safe</Media>
-                        <Media>Now at a brand-new location, TNS offers spirited Ultimate brackets every other Monday. You can expect brackets for other Smash titles as well.</Media>
+                        <Media heading>Bangers & Smash</Media>
+                        <Media>Capped at 32 entrants, this Eastside bar tournament draws in Ultimate and Melee fans alike.</Media>
                         <ul>
-                            <li>TO(s): <a href="https://twitter.com/harmdissonance" target="_blank" rel="noopener noreferrer">Scruffymagic</a></li>
-                            <li>Location: 7324 NE 175th St, Ste A, Kenmore, Washington 98028</li>
-                            <li>Brackets: Singles, varies</li>
-                            <li>Entry: $5 venue, $5 bracket</li>
-                            <li>Schedule: Every other Monday at 6:30 PM</li>
+                            <li>TO(s): <a href="https://twitter.com/reindhir" target="_blank" rel="noopener noreferrer">Dhir</a></li>
+                            <li>Location: 15327 NE 90th St, Redmond, Washington 98052</li>
+                            <li>Brackets: Ultimate Singles, Melee Singles</li>
+                            <li>Entry: $3 venue, $5 bracket</li>
+                            <li>Schedule: Every Tuesday at 6:30 PM</li>
                         </ul>
                     </Media>
                     <Media right top>
-                        <img className="rounded" src={require('../assets/tns.png')} alt="orbitar"></img>
+                        <img className="rounded" src={require('../assets/bns.png')} alt="orbitar"></img>
                     </Media>
                 </Media>
                 <Media>

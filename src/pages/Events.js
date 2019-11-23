@@ -63,7 +63,7 @@ const events = () => {
                 <Media>
                     <Media body>
                         <Media heading>That's Not Safe</Media>
-                        <Media>Now at a brand-new location, TNS offers spirited Ultimate brackets every other Monday. You can expect brackets for other Smash titles as well.</Media>
+                        <Media>Now at a brand-new location, TNS offers spirited Ultimate brackets every Monday. You can expect brackets for other Smash titles as well.</Media>
                         <ul>
                             <li>TO(s): <a href="https://twitter.com/harmdissonance" target="_blank" rel="noopener noreferrer">Scruffymagic</a></li>
                             <li>Location: 7324 NE 175th St, Ste A, Kenmore, Washington 98028</li>
@@ -127,7 +127,7 @@ const events = () => {
                 <Media>
                     <Media body>
                         <Media heading>Bangers & Smash</Media>
-                        <Media>Capped at 32 entrants, this Eastside bar tournament draws in Ultimate and Melee fans alike.</Media>
+                        <Media>Stationed on the Eastside, this friendly bar tournament draws in Ultimate and Melee fans alike.</Media>
                         <ul>
                             <li>TO(s): <a href="https://twitter.com/reindhir" target="_blank" rel="noopener noreferrer">Dhir</a></li>
                             <li>Location: 15327 NE 90th St, Redmond, Washington 98052</li>
@@ -138,6 +138,60 @@ const events = () => {
                     </Media>
                     <Media right top>
                         <img className="rounded" src={require('../assets/bns.png')} alt="orbitar"></img>
+                    </Media>
+                </Media>
+                <Media>
+                    <Media body>
+                        <Media heading>ROC Smash</Media>
+                        <Media>Led by scene veterans, ROC Smash supports the Snohomish Boys and Girls Club
+                        with Ultimate tournaments every week.
+                        </Media>
+                        <ul>
+                            <li>TO(s): <a href="https://www.facebook.com/brendan.beard.7" target="_blank" rel="noopener noreferrer">Beardbot</a>, <a href="https://twitter.com/TO_Aveean" target="_blank" rel="noopener noreferrer">Aveean</a></li>
+                            <li>Location: 1207 13th St Suite K, Snohomish, Washington 98290</li>
+                            <li>Brackets: Singles</li>
+                            <li>Entry: $5 venue, $5 bracket</li>
+                            <li>Schedule: Every Thursday at 6:30 PM</li>
+                        </ul>
+                    </Media>
+                    <Media right top>
+                        <img className="rounded" src={require('../assets/roc.png')} alt="ROC Smash"></img>
+                    </Media>
+                </Media>
+                <Media>
+                    <Media body>
+                        <Media heading>Domino Effect</Media>
+                        <Media>With two Smash titles and four brackets to choose from, this monthly series offers
+                        something for everyone.
+                        </Media>
+                        <ul>
+                            <li>TO(s): <a href="https://twitter.com/DE_maxper" target="_blank" rel="noopener noreferrer">Max</a></li>
+                            <li>Location: 645 NW 45th St, Seattle, WA 98107, USA</li>
+                            <li>Brackets: Ultimate Singles, Ultimate Doubles, Melee Singles, Melee Doubles</li>
+                            <li>Entry: $7 venue, $5 Singles bracket, free Doubles bracket</li>
+                            <li>Schedule: One weekend per month</li>
+                        </ul>
+                    </Media>
+                    <Media right top>
+                        <img className="rounded" src={require('../assets/de.png')} alt="Domino Effect"></img>
+                    </Media>
+                </Media>
+                <Media>
+                    <Media body>
+                        <Media heading>Basement Tier</Media>
+                        <Media>Stationed in The Anthill, a classic venue for Seattle’s music scene, this series features
+                        multiple brackets and encore performances every month.
+                        </Media>
+                        <ul>
+                            <li>TO(s): <a href="https://twitter.com/goosegusty" target="_blank" rel="noopener noreferrer">Goose</a></li>
+                            <li>Location: 1314 NE 75th St, Seattle, WA 98115, USA</li>
+                            <li>Brackets: Singles, Doubles, varies</li>
+                            <li>Entry: $5 venue, $5 bracket</li>
+                            <li>Schedule: One weekend per month</li>
+                        </ul>
+                    </Media>
+                    <Media right top>
+                        <img className="rounded" src={require('../assets/bt.jpg')} alt="Basement Tier"></img>
                     </Media>
                 </Media>
                 <Media>
@@ -172,38 +226,6 @@ const events = () => {
                         <img className="rounded" src={require('../assets/monthly.jpg')} alt="Monthly Mashers"></img>
                     </Media>
                 </Media>
-                <Media>
-                    <Media body>
-                        <Media heading>ROC Smash</Media>
-                        <Media>Led by a scene veteran, ROC Smash brings streams, setups, and spirit to northern Washington every other week.</Media>
-                        <ul>
-                            <li>TO(s): <a href="https://twitter.com/TO_Aveean" target="_blank" rel="noopener noreferrer">Aveean</a></li>
-                            <li>Location: Geek Fortress, 1207 13th St Suite K, Snohomish, Washington 98290</li>
-                            <li>Brackets: Singles</li>
-                            <li>Entry: $3 venue, $5 bracket</li>
-                            <li>Schedule: Every other Tuesday at 6:00 PM</li>
-                        </ul>
-                    </Media>
-                    <Media right top>
-                        <img className="rounded" src={require('../assets/roc.png')} alt="ROC Smash"></img>
-                    </Media>
-                </Media>
-                <Media>
-                    <Media body>
-                        <Media heading>Jokes on You: Randall’s Paradise</Media>
-                        <Media>Randall’s is a Melee institution that’s opened its doors to Ultimate. Enjoy a multitude of Smash titles across the water! NOTE: 18+ VENUE.</Media>
-                        <ul>
-                            <li>TO(s): <a href="https://www.facebook.com/blueado13?fref=gs&__tn__=%2CdlC-R-R&eid=ARCmV0YziBoKy5xqUeeJtZhjwtijCmlE8CE_YxELYfehuEBZ2QkB8AeKOpby9IZrynr9OKQep8q1l3lC&hc_ref=ARTPtiQ-AEmFWnX--_1RsPfFlVXJhPLKGr_2stxp25oMi1VtMy-w88ijYZyXxlv-FXE&dti=824606527611160&hc_location=group" target="_blank" rel="noopener noreferrer">Andrew Olsen</a></li>
-                            <li>Location: Olympus Vapor, 15131 NE 24th St, Redmond, WA 98052</li>
-                            <li>Brackets: Singles</li>
-                            <li>Entry: $5 venue, $3 bracket</li>
-                            <li>Schedule: Wednesdays at 5:45 PM</li>
-                        </ul>
-                    </Media>
-                    <Media right top>
-                        <img className="rounded" src={require('../assets/randall.jpg')} alt="Randall's Paradise"></img>
-                    </Media>
-                </Media>
             </Media>
             <h3>Regionals</h3>
             <Media list>
@@ -229,18 +251,6 @@ const events = () => {
                     </Media>
                     <Media right>
                         <img className="rounded" src={require('../assets/dp.jpeg')} alt="Don't Park on the Grass"></img>
-                    </Media>
-                </Media>
-                <Media>
-                    <Media body>
-                        <Media heading>Evergreen Rising</Media>
-                        <Media>Happening around once per month, Evergreen Rising brings a variety of Smash titles to Highline College. You can explore the many forms of Smash and cap it all off with a stacked Ultimate bracket.</Media>
-                        <ul>
-                            <li>TO(s): <a href="https://twitter.com/TizyeTV" target="_blank" rel="noopener noreferrer">Tizye</a></li>
-                        </ul>
-                    </Media>
-                    <Media right>
-                        <img className="rounded" src={require('../assets/egr.png')} alt="Evergreen Rising"></img>
                     </Media>
                 </Media>
                 <Media>

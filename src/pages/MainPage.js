@@ -44,7 +44,7 @@ export default class MainPage extends Component {
                     </div>
                 </header>
                 <section style={{ margin: '3rem 0', textAlign: 'center' }}>
-                    <Container style={{ width: '80%' }}>
+                    <Container style={{ width: '90%' }}>
                         <h2 style={{ marginBottom: '1rem' }}>WA Smash Lives Here.</h2>
                         <div className="lead text-left">
                             <p>
@@ -56,42 +56,42 @@ export default class MainPage extends Component {
                         </div>
                     </Container>
                 </section>
-                        <section>
-                            <div id="carousel">
-                                <CarourselPictures></CarourselPictures>
-                            </div>
-                        </section>
-                        <h2 style={{ margin: '2rem' }}>Recent News</h2>
-                        {this.state.posts &&
-                            <section id="news-area">
-                                {this.state.posts.map((post, i) => {
-                                    return (
-                                        <div className="post" key={"post" + i}>
-                                            <Card>
-                                                <CardBody>
-                                                    <Link style={{ color: "black" }} to={`/news/${post.id}`}>
-                                                        <CardTitle>{post.content.title}</CardTitle>
-                                                    </Link>
-                                                    {post.content.author && <CardSubtitle className="mb-3"><span style={{ fontWeight: 'bold' }}>Author:</span> {post.content.author}</CardSubtitle>}
-                                                    <Link to={`/news/${post.id}`}>
-                                                        <CardImg className="post-pic" src={post.content.mainImage.fields.file.url}></CardImg>
-                                                    </Link>
-                                                    <CardText style={{ margin: '1rem' }}>{post.content.content.substring(0, 100) + "..."}</CardText>
-                                                    <div className="text-center">
-                                                        <Link to={`/news/${post.id}`}>
-                                                            <Button className="m3">View Post</Button>
-                                                        </Link>
-                                                    </div>
-                                                </CardBody>
-                                            </Card>
-                                        </div>
-                                    )
-                                })
-                                }
-                            </section>
+                <section>
+                    <div id="carousel">
+                        <CarourselPictures></CarourselPictures>
+                    </div>
+                </section>
+                <h2 style={{ margin: '2rem' }}>Recent News</h2>
+                {this.state.posts &&
+                    <section id="news-area">
+                        {this.state.posts.map((post, i) => {
+                            return (
+                                <div className="post" key={"post" + i}>
+                                    <Card>
+                                        <CardBody>
+                                            <Link style={{ color: "black" }} to={`/news/${post.id}`}>
+                                                <CardTitle>{post.content.title}</CardTitle>
+                                            </Link>
+                                            {post.content.author && <CardSubtitle className="mb-3"><span style={{ fontWeight: 'bold' }}>Author:</span> {post.content.author}</CardSubtitle>}
+                                            <Link to={`/news/${post.id}`}>
+                                                <CardImg className="post-pic" src={post.content.mainImage.fields.file.url}></CardImg>
+                                            </Link>
+                                            <CardText style={{ margin: '1rem' }}>{post.content.content.substring(0, 100) + "..."}</CardText>
+                                            <div className="text-center">
+                                                <Link to={`/news/${post.id}`}>
+                                                    <Button className="m3">View Post</Button>
+                                                </Link>
+                                            </div>
+                                        </CardBody>
+                                    </Card>
+                                </div>
+                            )
+                        })
                         }
-            </React.Fragment>
-                    );
+                    </section>
                 }
-            
+            </React.Fragment>
+        );
+    }
+
 }

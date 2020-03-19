@@ -125,8 +125,8 @@ export default class PlayerTable extends Component {
                                 <FilteredTable players={this.state.filteredArray}></FilteredTable>
                             </Table>
                         </div>
-                        <div style={{ display: 'flex', justifyContent: 'center' }}>
-                            <Pagination aria-label="Page navigation example">
+                        <div style={{ display: 'flex', justifyContent: 'left', overflowX: "hidden" }}>
+                            <Pagination className="overflow-x-auto" aria-label="Page navigation example">
                                 <PaginationItem onClick={() => this.pageChange("decrease")}>
                                     <span className="page-link" aria-hidden="true">&laquo;</span>
                                     <span className="sr-only">Previous</span>

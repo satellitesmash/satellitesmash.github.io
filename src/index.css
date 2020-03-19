@@ -151,6 +151,14 @@ ol a {
 	transform: translate(-50%, -50%);
 }
 
+.overflow-x-auto {
+	overflow-x: auto;
+}
+
+body, html {
+	overflow-x: hidden;
+}
+
 @media (min-width: 575px) {
 
 	.rankings-image {

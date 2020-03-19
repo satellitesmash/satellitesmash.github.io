@@ -97,7 +97,7 @@ const events = () => {
                         <Media heading>Ultimate Thursdays</Media>
                         <Media>Debuting in late 2018, Ultimate Thursdays offers southern Smashers a great place to level up during the week. Its low price point makes it accessible for players of all levels.</Media>
                         <ul>
-                            <li>TO(s): <a href="https://twitter.com/ChadDrawsThings" target="_blank" rel="noopener noreferrer">ChadDrawsThings</a></li>
+                            <li>TO(s): <a href="https://twitter.com/ChadDrawsThings" target="_blank" rel="noopener noreferrer">ChadDrawsThings</a>, <a href="https://twitter.com/superblanketman">BlanketMan</a></li>
                             <li>Location: 124 Fir St NE, Olympia, Washington 98506</li>
                             <li>Brackets: Singles</li>
                             <li>Entry: $3 venue, $1 bracket</li>

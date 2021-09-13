@@ -33,7 +33,7 @@ export default class ContentSwitch extends Component {
                         <Route path="/resources" component={Resources} />
                         <Route path="/events" component={Events} />
                         <Route path="/rankings" component={Rankings} />
-                        <Route path="/calendar" component={Calendar} />
+                        {/* <Route path="/calendar" component={Calendar} /> */}
                         <Route path="/profile" component={Profile} />
                         <Route path="/forgot" component={Forgot} />
                         <Route path="/player/:playerid" component={PlayerPage} />

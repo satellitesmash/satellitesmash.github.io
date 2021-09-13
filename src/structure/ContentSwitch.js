@@ -5,7 +5,7 @@ import Players from '../pages/Players';
 import Hiring from "../pages/Hiring";
 import MainPage from '../pages/MainPage';
 import Rankings from '../pages/Rankings';
-import Calendar from '../pages/Calendar';
+// import Calendar from '../pages/Calendar';
 import News from '../pages/News';
 import Post from '../components/Post';
 import Resources from '../pages/Resources';

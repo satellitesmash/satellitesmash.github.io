@@ -68,7 +68,7 @@ const events = () => {
                         <ul>
                             <li>TO(s): <a href="https://twitter.com/GooseGusty" target="_blank" rel="noopener noreferrer">Goose</a></li>
                             <li>Location: 9456 35th Ave SW, Seattle, WA 98126</li>
-                            <li>Brackets: Singles, Redemption</li>
+                            <li>Brackets: Singles</li>
                             <li>Entry: $11 venue, $5 bracket</li>
                             <li>Schedule: Every other Wednesday at 6:30 PM</li>
                         </ul>
@@ -104,7 +104,7 @@ const events = () => {
                             <li>Location: 7330 164th Ave NE STE E252, Redmond, WA 98052</li>
                             <li>Brackets: Singles</li>
                             <li>Entry: $10 venue, $5 bracket</li>
-                            <li>Schedule: Every Thursday at 5:00 PM</li>
+                            <li>Schedule: Every Thursday at 6:00 PM</li>
                         </ul>
                     </Media>
                     <Media right top>
@@ -255,7 +255,7 @@ const events = () => {
                             <li>Location: 124 Fir St NE, Olympia, Washington 98506</li>
                             <li>Brackets: Singles</li>
                             <li>Entry: $3 venue, $1 bracket</li>
-                            <li>Schedule: Every Thursday at 7:30 PM</li>
+                            <li>Schedule: Every Thursday at 6:30 PM</li>
                         </ul>
                     </Media>
                     <Media right top>

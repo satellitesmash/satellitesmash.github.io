@@ -22,7 +22,10 @@ export default class Resources extends Component {
                         <li><a href="https://discord.gg/2NcUmC3" target="_blank" rel="noopener noreferrer">WWA Discord server</a></li>
                         <li><a href="https://docs.google.com/document/d/1ksVJc5N3-Cko7t-4vBVzGJruR7MdvQUCs9w9FGoAATI/edit?usp=sharing" target="_blank" rel="noopener noreferrer">WWA Code of Conduct</a></li>
                         <li><a href="https://docs.google.com/document/d/1ayvnbbZ1z9UVR_2oIh1LVj3iE-zkODSdqHDP4OwhOps/" target="_blank" rel="noopener noreferrer">WWA Recommended Ruleset</a></li>
-                        <li><a href="https://www.google.com/maps/d/u/0/viewer?mid=1b2j8mLODlrv2WXQtM4pPcx2hT5E" target="_blank" rel="noopener noreferrer">Player map</a></li>
+                        <li><a href="https://docs.google.com/document/d/1pgFrcRNJvUyd9de1VW8MaVDzJelROS5M83pzs6UtJhY/edit" target="_blank" rel="noopener noreferrer">WA Support Panel FAQ</a></li>
+                        <li><a href="https://docs.google.com/document/d/139jS6nFDwBjlGLVUu_pVo4bJk90pDaF2L8cwwia3cGQ/edit" target="_blank" rel="noopener noreferrer">WWA TO Welcome Kit</a></li>
+                        <li><a href="https://docs.google.com/document/d/1ZnD6aFGwMPAh8dcdpeBx4vEdgYwMQUakqpldTHSnpZg/edit" target="_blank" rel="noopener noreferrer">WWA PR FAQ</a></li>
+                        {/* <li><a href="https://www.google.com/maps/d/u/0/viewer?mid=1b2j8mLODlrv2WXQtM4pPcx2hT5E" target="_blank" rel="noopener noreferrer">Player map</a></li> */}
                     </ul>
                 </div>
                 <div>
@@ -31,8 +34,12 @@ export default class Resources extends Component {
                         <li><a href="https://twitch.tv/satellitesmash" target="_blank" rel="noopener noreferrer">SatelliteSmash</a></li>
                         <li><a href="https://twitch.tv/gameworksseattle" target="_blank" rel="noopener noreferrer">GameWorksSeattle</a></li>
                         <li><a href="https://twitch.tv/glitterisgoldgaming" target="_blank" rel="noopener noreferrer">GlitterIsGoldGaming</a></li>
-                        <li><a href="https://twitch.tv/pixelholicsgaming" target="_blank" rel="noopener noreferrer">PixelholicsGaming</a></li>
-                        <li><a href="http://twitch.tv/robo_leader" target="_blank" rel="noopener noreferrer">Robo_Leader</a></li>
+                        <li><a href="https://twitch.tv/BasementTier" target="_blank" rel="noopener noreferrer">BasementTier</a></li>
+                        <li><a href="https://twitch.tv/dominoeffectssb" target="_blank" rel="noopener noreferrer">dominoeffectssb</a></li>
+                        <li><a href="https://twitch.tv/FireDaPyro" target="_blank" rel="noopener noreferrer">FireDaPyro</a></li>
+                        <li><a href="https://twitch.tv/swssbu" target="_blank" rel="noopener noreferrer">swssbu</a></li>
+                        <li><a href="https://twitch.tv/bluemikazuchi" target="_blank" rel="noopener noreferrer">bluemikazuchi</a></li>
+                        <li><a href="https://twitch.tv/WAKEnSMASH" target="_blank" rel="noopener noreferrer">WAKEnSMASH</a></li>
                     </ul>
                 </div>
             </section>

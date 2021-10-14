@@ -10,7 +10,7 @@ const events = () => {
             {/* <div style={{ marginBottom: '1rem' }} className="back-button">
                 <Link to="/calendar"><Button>View Calendar</Button></Link>
             </div> */}
-            <h3>Seattle metro</h3>
+            <h3>Seattle Metro</h3>
             <Media list>
                 <Media>
                     <Media body>
@@ -37,7 +37,7 @@ const events = () => {
                             <li>Location: Maple Hall 216/217 at UW, Seattle, WA 98195</li>
                             <li>Brackets: Singles</li>
                             <li>Entry: $3 venue, $3 bracket</li>
-                            <li>Schedule: Every Monday (while UW is in session; beginning 10/4/21) at 6:30 PM</li>
+                            <li>Schedule: Every Wednesday (while UW is in session) at 6:30 PM</li>
                         </ul>
                     </Media>
                     <Media right top >
@@ -53,7 +53,7 @@ const events = () => {
                             <li>Location: Maple Hall 216/217 at UW, Seattle, WA 98195</li>
                             <li>Brackets: varies</li>
                             <li>Entry: Free (most brackets), $2 (PR brackets)</li>
-                            <li>Every Thursday (while UW is in session; beginning 10/7/21) at 7:00 PM</li>
+                            <li>Every Thursday (while UW is in session) at 7:00 PM</li>
                         </ul>
                     </Media>
                     <Media right top>
@@ -85,7 +85,7 @@ const events = () => {
                         <ul>
                             <li>TO(s): <a href="https://twitter.com/DukelowDukelow" target="_blank" rel="noopener noreferrer">Dukelow</a>, <a href="https://twitter.com/Bleggaman" target="_blank" rel="noopener noreferrer">Bleggaman</a></li>
                             <li>Location: 15327 NE 90th St, Redmond, WA 98052</li>
-                            <li>Brackets: Singles</li>
+                            <li>Brackets: Alternating Singles and Doubles</li>
                             <li>Entry: $5 venue, $5 bracket</li>
                             <li>Schedule: Every Tuesday starting at 6:30 PM</li>
                         </ul>
@@ -145,6 +145,23 @@ const events = () => {
                     </Media>
                     <Media right top>
                         <img className="rounded" src={require('../assets/bt.jpg')} alt="Basement Tier"></img>
+                    </Media>
+                </Media>
+                <Media>
+                    <Media body>
+                        <Media heading>Wake-n-Cake Hyperbolic Time Chamber</Media>
+                        <Media>Capped at 10 players each week, Wake-n-Cake offers round-robin matches, stream opportunities, and snacks for all attendees--a pretty sweet deal for anyone on the grind.
+                        </Media>
+                        <ul>
+                            <li>TO(s): <a href="https://twitter.com/ctrlaltnotice" target="_blank" rel="noopener noreferrer">NOTICE</a></li>
+                            <li>Location: 12507 NE 183rd St #302, Bothell, WA 98011</li>
+                            <li>Brackets: Singles</li>
+                            <li>Entry: $10 venue, $5 bracket</li>
+                            <li>Schedule: Every Saturday at 1:00 PM</li>
+                        </ul>
+                    </Media>
+                    <Media right top>
+                        <img className="rounded" src={require('../assets/whtc.png')} alt="WHTC"></img>
                     </Media>
                 </Media>
                 {/* <Media>
@@ -292,7 +309,7 @@ const events = () => {
                             <li>Location: 1300 Mahogany Ave, Bellingham, WA 98226</li>
                             <li>Brackets: Singles, Redemption</li>
                             <li>Entry: $5 venue, $5 bracket</li>
-                            <li>Schedule: Every Saturday starting at 3:30 PM</li>
+                            <li>Schedule: Every other Saturday starting at 3:30 PM</li>
                         </ul>
                     </Media>
                     <Media right top>
@@ -302,19 +319,36 @@ const events = () => {
                 <Media>
                     <Media body>
                         <Media heading>ROC Smash</Media>
-                        <Media>Led by scene veterans, ROC Smash supports the Snohomish Boys and Girls Club
+                        <Media>Led by a scene veteran, ROC Smash supports the Snohomish Boys and Girls Club
                             with Ultimate tournaments every week.
                         </Media>
                         <ul>
                             <li>TO(s): <a href="https://twitter.com/JCOnyx_117" target="_blank" rel="noopener noreferrer">JCOnyx</a></li>
                             <li>Location: 1207 13th St Suite K, Snohomish, Washington 98290</li>
-                            <li>Brackets: Singles</li>
+                            <li>Brackets: Ultimate Singles, P+ Singles</li>
                             <li>Entry: $5 venue, $5 bracket</li>
-                            <li>Schedule: Every other Sunday (currently on hiatus)</li>
+                            <li>Schedule: Every other Sunday</li>
                         </ul>
                     </Media>
                     <Media right top>
                         <img className="rounded" src={require('../assets/roc.png')} alt="ROC Smash"></img>
+                    </Media>
+                </Media>
+                <Media>
+                    <Media body>
+                        <Media heading>WWU Smash</Media>
+                        <Media>If you’re up north, don’t miss out on this free bracket. It’s a great place to practice for students and non-students alike!
+                        </Media>
+                        <ul>
+                            <li>TO(s): <a href="https://twitter.com/SwSSBU" target="_blank" rel="noopener noreferrer">Sw</a></li>
+                            <li>Location:  Western Washington University CF 226/227</li>
+                            <li>Brackets: Singles</li>
+                            <li>Entry: free</li>
+                            <li>Schedule: Every Friday (while WWU is in session) at 6:15 PM</li>
+                        </ul>
+                    </Media>
+                    <Media right top>
+                        <img className="rounded" src={require('../assets/wwu.png')} alt="WWU Smash"></img>
                     </Media>
                 </Media>
             </Media>

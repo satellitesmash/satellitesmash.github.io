@@ -40,6 +40,7 @@ export default class Resources extends Component {
                         <li><a href="https://twitch.tv/swssbu" target="_blank" rel="noopener noreferrer">swssbu</a></li>
                         <li><a href="https://twitch.tv/bluemikazuchi" target="_blank" rel="noopener noreferrer">bluemikazuchi</a></li>
                         <li><a href="https://twitch.tv/WAKEnSMASH" target="_blank" rel="noopener noreferrer">WAKEnSMASH</a></li>
+                        <li><a href="https://twitch.tv/dukelow" target="_blank" rel="noopener noreferrer">Dukelow</a></li>
                     </ul>
                 </div>
             </section>

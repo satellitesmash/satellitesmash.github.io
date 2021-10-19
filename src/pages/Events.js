@@ -31,13 +31,13 @@ const events = () => {
                 <Media>
                     <Media body>
                         <Media heading>WGA Colosseum</Media>
-                        <Media>WGA Colosseum turns the University of Washington into a battle arena every Monday, making it a prime practice location for anyone around Seattle. </Media>
+                        <Media>WGA Colosseum turns the University of Washington into a battle arena once per week, making it a prime practice location for anyone around Seattle.</Media>
                         <ul>
                             <li>TO(s): <a href="https://twitter.com/DukelowDukelow" target="_blank" rel="noopener noreferrer">Dukelow</a></li>
                             <li>Location: Maple Hall 216/217 at UW, Seattle, WA 98195</li>
                             <li>Brackets: Singles</li>
                             <li>Entry: $3 venue, $3 bracket</li>
-                            <li>Schedule: Every Wednesday (while UW is in session) at 6:30 PM</li>
+                            <li>Schedule: One weekday (while UW is in session) at 6:30 PM</li>
                         </ul>
                     </Media>
                     <Media right top >
@@ -103,7 +103,7 @@ const events = () => {
                             <li>TO(s): <a href="https://twitter.com/Quaylectronnex" target="_blank" rel="noopener noreferrer">Quaylectra</a></li>
                             <li>Location: 7330 164th Ave NE STE E252, Redmond, WA 98052</li>
                             <li>Brackets: Singles</li>
-                            <li>Entry: $10 venue, $5 bracket</li>
+                            <li>Entry: $5 venue, $5 bracket</li>
                             <li>Schedule: Every Thursday at 6:00 PM</li>
                         </ul>
                     </Media>
@@ -114,15 +114,16 @@ const events = () => {
                 <Media>
                     <Media body>
                         <Media heading>Domino Effect</Media>
-                        <Media>With two Smash titles and four brackets to choose from, this monthly series offers
-                            something for everyone.
+                        <Media>With two Smash titles and six brackets to choose from, this 
+                            regional series offers something for everyone. Most of the revenue 
+                            is donated to the Coalition of Rainforest Nations.
                         </Media>
                         <ul>
                             <li>TO(s): <a href="https://twitter.com/DE_maxper" target="_blank" rel="noopener noreferrer">Max</a></li>
-                            <li>Location: 645 NW 45th St, Seattle, WA 98107, USA</li>
-                            <li>Brackets: Ultimate Singles, Ultimate Doubles, Melee Singles, Melee Doubles</li>
-                            <li>Entry: $7 venue, $5 Singles bracket, free Doubles bracket</li>
-                            <li>Schedule: One weekend per month (currently on hiatus)</li>
+                            <li>Location: 4001 E Stevens Way NE, Seattle, WA 98195</li>
+                            <li>Brackets: Ultimate Singles, Ultimate Doubles, Melee Singles, Melee Doubles, Rivals of Aether Singles, rotation of FGC games</li>
+                            <li>Entry: $15 venue, $5 per bracket</li>
+                            <li>Schedule: One Saturday every other month</li>
                         </ul>
                     </Media>
                     <Media right top>
@@ -302,7 +303,7 @@ const events = () => {
                 <Media>
                     <Media body>
                         <Media heading>Sinistar Saga</Media>
-                        <Media>Sinistar Saga brings northern Washington together in a cozy lounge setting each Saturday for two brackets, including a redemption run.
+                        <Media>Sinistar Saga brings northern Washington together in a cozy lounge setting every other Saturday for two brackets, including a redemption run.
                         </Media>
                         <ul>
                             <li>TO(s): <a href="https://twitter.com/SwSSBU" target="_blank" rel="noopener noreferrer">Sw</a></li>

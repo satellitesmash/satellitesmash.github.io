@@ -9,8 +9,7 @@ export default class Resources extends Component {
                 <div>
                     <h3>CONTACTS</h3>
                     <ul>
-                        <li><a href="https://twitter.com/ssbgyromight" target="_blank" rel="noopener noreferrer">Gyromight - Satellite Smash (TO)</a></li>
-                        <li><a href="https://twitter.com/cyrrona" target="_blank" rel="noopener noreferrer">Cyrrona - Satellite Smash (web lead, TO)</a></li>
+                        <li><a href="https://twitter.com/ssbgyromight" target="_blank" rel="noopener noreferrer">Gyromight - Satellite Smash (web lead, TO)</a></li>
                         <li><a href="https://twitter.com/jc_ssb" target="_blank" rel="noopener noreferrer">JC - Satellite Smash (stream lead, web developer)</a></li>
                         <li>Email: <a href="mailto:satellitesmashbros@gmail.com" target="_blank" rel="noopener noreferrer">satellitesmashbros@gmail.com</a></li>
                     </ul>

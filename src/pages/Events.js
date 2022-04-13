@@ -15,10 +15,10 @@ const events = () => {
                 <Media>
                     <Media body>
                         <Media heading>Orbitar</Media>
-                        <Media body>Sprouting up from humble beginnings in 2015, this bi-weekly at GameWorks Seattle has blossomed into WWA’s biggest regular series. It draws out PR players and newcomers alike, forming a great snapshot of all the scene has to offer. Preregistration is required, so make sure you watch the <a href="https://discord.gg/2NcUmC3" target="_blank" rel="noopener noreferrer">WWA Discord server</a> and <a href="https://www.facebook.com/groups/pnwsmash" target="_blank" rel="noopener noreferrer">Facebook group</a> for sign-ups!</Media>
+                        <Media body>Sprouting up from humble beginnings in 2015, this bi-weekly at downtown Seattle has blossomed into WWA’s biggest regular series. It draws out PR players and newcomers alike, forming a great snapshot of all the scene has to offer. Preregistration is required, so make sure you watch the <a href="https://discord.gg/2NcUmC3" target="_blank" rel="noopener noreferrer">WWA Discord server</a> and <a href="https://www.facebook.com/groups/pnwsmash" target="_blank" rel="noopener noreferrer">Facebook group</a> for sign-ups!</Media>
                         <ul>
-                            <li>TO(s): <a href="https://twitter.com/cyrrona" target="_blank" rel="noopener noreferrer">Cyrrona</a>, <a href="https://twitter.com/ssbgyromight" target="_blank" rel="noopener noreferrer">Gyromight</a></li>
-                            <li>Location: 1511 7th Ave Seattle, Washington 98101</li>
+                            <li>TO(s): <a href="https://twitter.com/GooseGusty" target="_blank" rel="noopener noreferrer">Goose</a>, <a href="https://twitter.com/Bleggaman" target="_blank" rel="noopener noreferrer">Bleggaman</a></li>
+                            <li>Location: 925 Westlake Ave N, Seattle, WA, 98109</li>
                             <li>Brackets: Singles, varies</li>
                             <li>Entry: $10 venue, $10 bracket</li>
                             <li>Schedule: Every other Friday at 6:30 PM</li>
@@ -30,14 +30,14 @@ const events = () => {
                 </Media>
                 <Media>
                     <Media body>
-                        <Media heading>WGA Colosseum</Media>
-                        <Media>WGA Colosseum turns the University of Washington into a battle arena once per week, making it a prime practice location for anyone around Seattle.</Media>
+                        <Media heading>WGA Holy Colosseum</Media>
+                        <Media>Located at the Every Nation Church near the University of Washington, this esteemed tournament series has risen and ascended into one of the scene’s most popular locals.</Media>
                         <ul>
                             <li>TO(s): <a href="https://twitter.com/DukelowDukelow" target="_blank" rel="noopener noreferrer">Dukelow</a></li>
                             <li>Location: Maple Hall 216/217 at UW, Seattle, WA 98195</li>
                             <li>Brackets: Singles</li>
-                            <li>Entry: $3 venue, $3 bracket</li>
-                            <li>Schedule: One weekday (while UW is in session) at 6:30 PM</li>
+                            <li>Entry: $10 venue, $5 bracket</li>
+                            <li>Schedule: Mondays at 6:00 PM</li>
                         </ul>
                     </Media>
                     <Media right top >
@@ -96,11 +96,11 @@ const events = () => {
                 </Media>
                 <Media>
                     <Media body>
-                        <Media heading>Quaylectric Qronicles</Media>
+                        <Media heading>Invictus Insurgency</Media>
                         <Media>PLAYlive Nation’s Smash saga continues with a new captain at the helm! Head east every Thursday for a piece of the action.
                         </Media>
                         <ul>
-                            <li>TO(s): <a href="https://twitter.com/Quaylectronnex" target="_blank" rel="noopener noreferrer">Quaylectra</a></li>
+                            <li>TO(s): <a href="https://twitter.com/InvictusZSS" target="_blank" rel="noopener noreferrer">Invictus</a></li>
                             <li>Location: 7330 164th Ave NE STE E252, Redmond, WA 98052</li>
                             <li>Brackets: Singles</li>
                             <li>Entry: $5 venue, $5 bracket</li>
@@ -108,14 +108,14 @@ const events = () => {
                         </ul>
                     </Media>
                     <Media right top>
-                        <img className="rounded" src={require('../assets/qq.png')} alt="Quaylectric Qronicles"></img>
+                        <img className="rounded" src={require('../assets/ii.png')} alt="Invictus Insurgency"></img>
                     </Media>
                 </Media>
                 <Media>
                     <Media body>
                         <Media heading>Domino Effect</Media>
-                        <Media>With two Smash titles and six brackets to choose from, this 
-                            regional series offers something for everyone. Most of the revenue 
+                        <Media>With two Smash titles and six brackets to choose from, this
+                            regional series offers something for everyone. Most of the revenue
                             is donated to the Coalition of Rainforest Nations.
                         </Media>
                         <ul>
@@ -163,6 +163,23 @@ const events = () => {
                     </Media>
                     <Media right top>
                         <img className="rounded" src={require('../assets/whtc.png')} alt="WHTC"></img>
+                    </Media>
+                </Media>
+                <Media>
+                    <Media body>
+                        <Media heading>Substation Smash</Media>
+                        <Media>Hosted at one of Seattle’s most well-known concert venues, this 21+ monthly boasts good vibes, stiff drinks, and even stiffer competition for both Melee and Ultimate.
+                        </Media>
+                        <ul>
+                            <li>TO(s): <a href="https://twitter.com/GooseGusty" target="_blank" rel="noopener noreferrer">Goose</a></li>
+                            <li>Location: 12507 NE 183rd St #302, Bothell, WA 98011</li>
+                            <li>Brackets: Ultimate Singles, Melee Singles</li>
+                            <li>Entry: $10 venue, $5 bracket</li>
+                            <li>Schedule: Monthly, Sundays</li>
+                        </ul>
+                    </Media>
+                    <Media right top>
+                        <img className="rounded" src={require('../assets/subs.png')} alt="Substation Smash"></img>
                     </Media>
                 </Media>
                 {/* <Media>
@@ -326,9 +343,9 @@ const events = () => {
                         <ul>
                             <li>TO(s): <a href="https://twitter.com/JCOnyx_117" target="_blank" rel="noopener noreferrer">JCOnyx</a></li>
                             <li>Location: 1207 13th St Suite K, Snohomish, Washington 98290</li>
-                            <li>Brackets: Ultimate Singles, P+ Singles</li>
+                            <li>Brackets: Ultimate Singles, P+ Singles, Rivals of Aether</li>
                             <li>Entry: $5 venue, $5 bracket</li>
-                            <li>Schedule: Every other Sunday</li>
+                            <li>Schedule: Every Sunday</li>
                         </ul>
                     </Media>
                     <Media right top>
@@ -352,15 +369,32 @@ const events = () => {
                         <img className="rounded" src={require('../assets/wwu.png')} alt="WWU Smash"></img>
                     </Media>
                 </Media>
+                <Media>
+                    <Media body>
+                        <Media heading>Stairway to Heaven</Media>
+                        <Media>Hosted at Gamers Heaven in Lynnwood, this biweekly Friday tournament alternates with Orbitar and is shaping up to be one of Washington’s biggest locals, drawing talent from all across the region.
+                        </Media>
+                        <ul>
+                            <li>TO(s): GatoDelFuego, <a href="https://twitter.com/noticenlife" target="_blank" rel="noopener noreferrer">NOTICE</a></li>
+                            <li>Location:  Western Washington University CF 226/227</li>
+                            <li>Brackets: Singles</li>
+                            <li>Entry: $10 venue, $5 bracket</li>
+                            <li>Schedule: Biweekly Fridays, alternating with Orbitar</li>
+                        </ul>
+                    </Media>
+                    <Media right top>
+                        <img className="rounded" src={require('../assets/sth.png')} alt="Stairway to Heaven"></img>
+                    </Media>
+                </Media>
             </Media>
             <h3>Special Events</h3>
             <Media list>
                 <Media>
                     <Media body>
                         <Media heading>Port Priority</Media>
-                        <Media>Stationed in the University of Washington’s Maple Hall, this bi-annual tournament draws PGR talent, national attention, and plenty of hype. While all installments feature Singles and Doubles, each one also focuses on a specific theme or region, giving every edition a distinct flavor.</Media>
+                        <Media>The Pacific Northwest’s biggest tournament, this annual major tournament draws PGR talent, national attention, and plenty of hype. While all installments feature Singles and Doubles, each one also focuses on a specific theme, giving every Port Priority a distinct flavor. Keep an eye out for the next one!</Media>
                         <ul>
-                            <li>TO(s): <a href="https://twitter.com/ssbgyromight" target="_blank" rel="noopener noreferrer">Gyromight</a>, <a href="https://twitter.com/cyrrona" target="_blank" rel="noopener noreferrer">Cyrrona</a></li>
+                            <li>TO(s): <a href="https://twitter.com/ssbgyromight" target="_blank" rel="noopener noreferrer">Gyromight</a></li>
                         </ul>
                     </Media>
                     <Media right top>
@@ -372,11 +406,23 @@ const events = () => {
                         <Media heading>Orbitar Stars</Media>
                         <Media>This special event features a charity invitational with some of Orbitar’s top performers as well as an Arcadian bracket designed to highlight the scene’s rising stars. It’s part prestige, part celebration!</Media>
                         <ul>
-                            <li>TO(s): <a href="https://twitter.com/cyrrona" target="_blank" rel="noopener noreferrer">Cyrrona</a>, <a href="https://twitter.com/ssbgyromight" target="_blank" rel="noopener noreferrer">Gyromight</a></li>
+                            <li>TO(s): <a href="https://twitter.com/GooseGusty" target="_blank" rel="noopener noreferrer">Goose</a>, <a href="https://twitter.com/Bleggaman" target="_blank" rel="noopener noreferrer">Bleggaman</a></li>
                         </ul>
                     </Media>
                     <Media right top>
                         <img className="rounded" src={require('../assets/stars.jpg')} alt="Orbitar Stars"></img>
+                    </Media>
+                </Media>
+                <Media>
+                    <Media body>
+                        <Media heading>Emerald City</Media>
+                        <Media>Seattle’s original Smash series, this annual tournament features Ultimate, Melee, Rivals, other fighting games, a convention, and an esteemed history. Hosted at the University of Washington on a yearly basis.</Media>
+                        <ul>
+                            <li>TO(s): <a href="https://twitter.com/DukelowDukelow" target="_blank" rel="noopener noreferrer">Dukelow</a>, <a href="https://twitter.com/DE_maxper" target="_blank" rel="noopener noreferrer">Max</a></li>
+                        </ul>
+                    </Media>
+                    <Media right top>
+                        <img className="rounded" src={require('../assets/ec.png')} alt="Emerald City"></img>
                     </Media>
                 </Media>
                 {/* <Media>
@@ -401,18 +447,6 @@ const events = () => {
                     </Media>
                     <Media right>
                         <img className="rounded" src={require('../assets/dp.jpeg')} alt="Don't Park on the Grass"></img>
-                    </Media>
-                </Media> */}
-                {/* <Media>
-                    <Media body>
-                        <Media heading>Emerald City</Media>
-                        <Media>This (roughly) quarterly regional at the UW Intellectual House brings Ultimate and Melee players together for a mash-up of Singles and Doubles in both games. Its multi-region crowd offers attendees the chance to meet some new faces and playstyles.</Media>
-                        <ul>
-                            <li>TO(s): <a href="https://twitter.com/aidencalvin" target="_blank" rel="noopener noreferrer">Aiden</a>, <a href="https://twitter.com/TO_Aveean" target="_blank" rel="noopener noreferrer">Aveean</a></li>
-                        </ul>
-                    </Media>
-                    <Media right top>
-                        <img className="rounded" src={require('../assets/ec.png')} alt="Emerald City"></img>
                     </Media>
                 </Media> */}
             </Media>

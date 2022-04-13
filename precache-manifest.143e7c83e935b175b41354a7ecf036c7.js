@@ -1,23 +1,23 @@
 self.__precacheManifest = [
   {
-    "revision": "e4d1bfd7084826d14f6f",
-    "url": "/static/css/main.6e60febb.chunk.css"
+    "revision": "bf91c7f547e741fbe470",
+    "url": "/static/css/main.9d09e131.chunk.css"
   },
   {
-    "revision": "e4d1bfd7084826d14f6f",
-    "url": "/static/js/main.8a16c794.chunk.js"
+    "revision": "bf91c7f547e741fbe470",
+    "url": "/static/js/main.4bbbfefa.chunk.js"
   },
   {
     "revision": "42ac5946195a7306e2a5",
     "url": "/static/js/runtime~main.a8a9905a.js"
   },
   {
-    "revision": "34421d325d56167634d4",
-    "url": "/static/css/2.601e7bd9.chunk.css"
+    "revision": "fa20f6788b53bf07b103",
+    "url": "/static/css/2.1006cb40.chunk.css"
   },
   {
-    "revision": "34421d325d56167634d4",
-    "url": "/static/js/2.cf21f968.chunk.js"
+    "revision": "fa20f6788b53bf07b103",
+    "url": "/static/js/2.3c4d4918.chunk.js"
   },
   {
     "revision": "a21bcc9f0469f70ab052a585f01c2c90",
@@ -72,8 +72,8 @@ self.__precacheManifest = [
     "url": "/static/media/picture11.956f0f2b.jpg"
   },
   {
-    "revision": "44d19ff35109dbc1367c0b25d0f994df",
-    "url": "/static/media/Fall2019.44d19ff3.jpg"
+    "revision": "92757724f93f931524a0ef2851bebefe",
+    "url": "/static/media/sprPR2022.92757724.jpeg"
   },
   {
     "revision": "0bd6ef452763c3a6fddc36a385122296",
@@ -92,8 +92,8 @@ self.__precacheManifest = [
     "url": "/static/media/tpb.90fe2e4d.png"
   },
   {
-    "revision": "a9c61bb5b2b757aaf359ab4ccc039c8c",
-    "url": "/static/media/qq.a9c61bb5.png"
+    "revision": "bf3f3f676ec59be875f9a83a2bbd174d",
+    "url": "/static/media/ii.bf3f3f67.png"
   },
   {
     "revision": "b5b026fa3d7e90a0facd6788ba591630",
@@ -102,6 +102,10 @@ self.__precacheManifest = [
   {
     "revision": "fdce892c53adb2a965461243306b6f58",
     "url": "/static/media/whtc.fdce892c.png"
+  },
+  {
+    "revision": "91edf251ca65e162fb1f1317ca414635",
+    "url": "/static/media/subs.91edf251.png"
   },
   {
     "revision": "c1fdc57e2a4817327827847de9235aa4",
@@ -124,15 +128,23 @@ self.__precacheManifest = [
     "url": "/static/media/wwu.c6f87ae0.png"
   },
   {
+    "revision": "8da7cf89477d144fdf0afcbc33f64a3a",
+    "url": "/static/media/sth.8da7cf89.png"
+  },
+  {
     "revision": "b94c0cfcba1a3a38c7554ac4fb5d63f1",
     "url": "/static/media/stars.b94c0cfc.jpg"
+  },
+  {
+    "revision": "ce7ff656a60c03e0411993ff1c1def83",
+    "url": "/static/media/ec.ce7ff656.png"
   },
   {
     "revision": "26bbc45e240ec1e01d1d7a8876b883f8",
     "url": "/static/media/Integral.26bbc45e.otf"
   },
   {
-    "revision": "39dfd813f33176317c9f0aa4e2b37c68",
+    "revision": "4405d698a7cf28ac8e1137105675f431",
     "url": "/index.html"
   }
 ];

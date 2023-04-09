@@ -1,27 +1,31 @@
 self.__precacheManifest = [
   {
-    "revision": "26d1a03528c85a6b0af1",
+    "revision": "6ffa97f32a8b3dccd371",
     "url": "/static/css/main.3678b245.chunk.css"
   },
   {
-    "revision": "26d1a03528c85a6b0af1",
-    "url": "/static/js/main.b8236c84.chunk.js"
+    "revision": "6ffa97f32a8b3dccd371",
+    "url": "/static/js/main.fb4a4b72.chunk.js"
   },
   {
     "revision": "42ac5946195a7306e2a5",
     "url": "/static/js/runtime~main.a8a9905a.js"
   },
   {
-    "revision": "bdf2f5eac1ad5845125a",
+    "revision": "84b9ba76025cb6325c0d",
     "url": "/static/css/2.2a0897b4.chunk.css"
   },
   {
-    "revision": "bdf2f5eac1ad5845125a",
-    "url": "/static/js/2.b47d0e1a.chunk.js"
+    "revision": "84b9ba76025cb6325c0d",
+    "url": "/static/js/2.c8d54a64.chunk.js"
   },
   {
     "revision": "a21bcc9f0469f70ab052a585f01c2c90",
     "url": "/static/media/satellitesmash.a21bcc9f.png"
+  },
+  {
+    "revision": "2a096d431439245c722c9930b215f611",
+    "url": "/static/media/winPR2022.2a096d43.png"
   },
   {
     "revision": "6131e99d7d3743f9dd7c253f1de5232c",
@@ -82,10 +86,6 @@ self.__precacheManifest = [
   {
     "revision": "56bab2d47aec0aa78bfc87764738044b",
     "url": "/static/media/sprPR2022.56bab2d4.png"
-  },
-  {
-    "revision": "2a096d431439245c722c9930b215f611",
-    "url": "/static/media/winPR2022.2a096d43.png"
   },
   {
     "revision": "d43590006dcb1724acd2119d90ce1a5f",
@@ -168,7 +168,7 @@ self.__precacheManifest = [
     "url": "/static/media/Integral.26bbc45e.otf"
   },
   {
-    "revision": "7800ad1a13035b5c33f2b6e5c768ab44",
+    "revision": "674224056ea8fb93b4f847b39c126300",
     "url": "/index.html"
   }
 ];
